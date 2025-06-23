@@ -1,6 +1,6 @@
 # LiamObrien-12.github.io
 
-# Liam O'Brien's CS499 Capstone ePortfolio
+## Liam O'Brien's CS499 Capstone ePortfolio
 
 Welcome to my ePortfolio for the SNHU Computer Science Capstone. This portfolio demonstrates my growth as a developer by showcasing two enhanced software artifacts:
 
